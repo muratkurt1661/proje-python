@@ -1,4 +1,4 @@
-# proje-python
+# sistem otomasyon aracı
 python ile yazılmış projeler
 kurulum dosyasının içindeki .bat uzantılı dosyayı yönetici olarak çalıştır.
 .bat uzantılı dosya çalışmıyor ise dist klasörünün içindeki .exe dosyasını yönetici olarak çalıştır.
